@@ -1,5 +1,9 @@
-# resumetemplate
+# react30_15_resume_template
 An online resume template in reactjs  
+
+### Objective:
+Update all the dev projects into an online resume 
+
 Instruction to run:-  
 1)Clone the repo  
 
