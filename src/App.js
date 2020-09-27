@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Header from './components/header/header';
 import About from './components/about/about';
 import Resume from './components/resume/resume';
@@ -7,8 +7,7 @@ import Testimonials from  './components/testimonials/testimonials';
 import ContactUs from './components/contactus/contactus';
 import Footer from './components/footer/footer';
 import resumeData from './resumeData';
-class App extends Component {
-  render() {
+function App() {
     return (
       <div className="App">
         <Header resumeData={resumeData}/>
@@ -20,7 +19,6 @@ class App extends Component {
         <Footer resumeData={resumeData}/>
       </div>
     );
-  }
 }
 
 export default App;
