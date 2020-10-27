@@ -690,7 +690,6 @@ input[type="checkbox"] { display: inline; }
 .bgrid-quarters [class*="column"] { width: 25%; }
 .bgrid-thirds [class*="column"]   { width: 33.33333%; }
 .bgrid-halves [class*="column"]   { width: 50%; }
-
 [class*="bgrid"] [class*="column"] + [class*="column"]:last-child { float: left; }
 
 /* Left clearing for block grid columns - columns that changes width in

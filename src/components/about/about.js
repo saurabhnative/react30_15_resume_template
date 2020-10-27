@@ -31,7 +31,7 @@ function About({resumeData}) {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span><a href={resumeData.website} target="_blank">{resumeData.website}</a></span>
        					   </p>
                   </div>
                </div>

@@ -1,26 +1,21 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "John Doe",
+  "name": "Saurabh Mhatre",
   "role": "Frontend Developer",
-  "linkedinId":"Your LinkedIn Id",
+  "linkedinId":"saurabh-mhatre",
   "skypeid": "Your skypeid",
   "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/saurabh-mhatre",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"http://github.com/smhatre59",
         "className":"fa fa-github"
       },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
-      }
     ],
   "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
   "address":"India",
@@ -28,33 +23,26 @@ let resumeData = {
   "education":[
     {
       "UniversityName":"Mumbai University",
-      "specialization":"Some specialization",
+      "specialization":"B.E. CS",
       "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "YearOfPassing":"2015",
+      "Achievements":"Finished internship at Perisitent Systems in Final Year"
     },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
+      "UniversityName":"GreyAtom",
+      "specialization":"Data science",
       "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "YearOfPassing":"2019",
+      "Achievements":"Won hackathon organised by GreyAtom Team"
     }
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
+      "CompanyName":"CF",
+      "specialization":"Frontend",
       "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
-    },
-    {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "YearOfLeaving":"2020",
+      "Achievements":"Worked on Product Website"
     }
   ],
   "skillsDescription":"Your skills here",
@@ -70,6 +58,26 @@ let resumeData = {
     }
   ],
   "portfolio":[
+    {
+      "name":"Collge ID Card Generator",
+      "description":"Online ID Card Generator using Javascript",
+      "imgurl":"https://res.cloudinary.com/dk22rcdch/image/upload/v1602558431/Blogimages/sol2_jonk5k.gif"
+    },
+    {
+      "name":"Clicker app",
+      "description":"Clicker app using react.js",
+      "imgurl":"https://res.cloudinary.com/dk22rcdch/image/upload/v1602056241/Blogimages/Clicker_o7hqyq.gif"
+    },
+    {
+      "name":"project3",
+      "description":"mobileapp",
+      "imgurl":"images/portfolio/project2.png"
+    },
+    {
+      "name":"project4",
+      "description":"mobileapp",
+      "imgurl":"images/portfolio/phone.jpg"
+    },
     {
       "name":"project1",
       "description":"mobileapp",
