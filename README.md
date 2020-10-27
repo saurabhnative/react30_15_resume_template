@@ -16,3 +16,6 @@ Instruction to run:-
 
 For detailed instructions on how the resume template was created go to post below:  
 [Medium Article](https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e)
+
+Demo:  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603821479/Blogimages/Untitled_q8gpxa.gif" />  
