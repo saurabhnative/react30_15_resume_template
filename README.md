@@ -19,3 +19,11 @@ For detailed instructions on how the resume template was created go to post belo
 
 Demo:  
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603821479/Blogimages/Untitled_q8gpxa.gif" />  
+
+### Connect with me on the web:
+🦜 Twitter: https://twitter.com/saurabhnative  
+💼 LinkedIn: https://www.linkedin.com/in/saurabh-mhatre   
+🖥 Github: https://github.com/smhatre59  
+🎬 Youtube: https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g  
+📃 Website: https://coderwhodreams.com   
+📝 Medium: https://medium.com/@smhatre59  
